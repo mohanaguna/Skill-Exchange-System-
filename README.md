@@ -15,15 +15,15 @@ Many individuals want to learn new skills but face challenges in finding suitabl
 - Encourage collaborative learning and knowledge sharing.
 - Enable users to discover and develop new skills.
 - Create an interactive and user-friendly learning environment.
-USERS
+###USERS
 
-Admin
+##Admin
 
 - Manage users.
 - Monitor system activities.
 - Handle reports and feedback.
 
-User
+##User
 
 - Register and log in.
 - Manage profile and skills.
@@ -32,7 +32,7 @@ User
 
 ---
 
-MODULES
+###MODULES
 
 1. Authentication Module
 
