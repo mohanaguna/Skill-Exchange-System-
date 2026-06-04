@@ -15,51 +15,42 @@ Many individuals want to learn new skills but face challenges in finding suitabl
 - Encourage collaborative learning and knowledge sharing.
 - Enable users to discover and develop new skills.
 - Create an interactive and user-friendly learning environment.
-USERS
+## Users
 
-Admin
-
+### Admin
 - Manage users.
 - Monitor system activities.
 - Handle reports and feedback.
 
-User
-
+### User
 - Register and log in.
 - Manage profile and skills.
 - Exchange skills with other users.
 - Provide feedback.
 
-MODULES
+## Modules
 
-Authentication Module
-
+### Authentication Module
 Allows users to register and log in securely.
 
-Profile Management Module
-
+### Profile Management Module
 Enables users to create and update their profiles.
 
-Skill Management Module
-
+### Skill Management Module
 Allows users to add, edit, and manage their skills.
 
-Search & Matching Module
-
+### Search & Matching Module
 Helps users find suitable skill exchange partners.
 
-Skill Exchange Request Module
-
+### Skill Exchange Request Module
 Allows users to send, accept, or reject exchange requests.
 
-Feedback & Rating Module
-
+### Feedback & Rating Module
 Enables users to provide ratings and feedback after skill exchanges.
 
-Admin Module
-
+### Admin Module
 Allows administrators to manage users and monitor system activities.
 
-Notifications (Future Enhancement)
-
+### Notifications (Future Enhancement)
 Provides alerts and updates for requests and activities.
+
