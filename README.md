@@ -53,4 +53,8 @@ Allows administrators to manage users and monitor system activities.
 
 ### Notifications (Future Enhancement)
 Provides alerts and updates for requests and activities.
+## Use Case Diagram
 
+
+
+![Use Case Diagram](file_0000000022f471f5803309f35409a571.png)
